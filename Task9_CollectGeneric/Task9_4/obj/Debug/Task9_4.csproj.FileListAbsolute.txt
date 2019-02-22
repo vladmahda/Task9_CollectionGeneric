@@ -1,0 +1,10 @@
+C:\Users\Владимир\source\repos\Task9_CollectGeneric\Task9_4\bin\Debug\Task9_4.exe.config
+C:\Users\Владимир\source\repos\Task9_CollectGeneric\Task9_4\bin\Debug\Task9_4.exe
+C:\Users\Владимир\source\repos\Task9_CollectGeneric\Task9_4\bin\Debug\Task9_4.pdb
+C:\Users\Владимир\source\repos\Task9_CollectGeneric\Task9_4\bin\Debug\Task9_2.exe
+C:\Users\Владимир\source\repos\Task9_CollectGeneric\Task9_4\bin\Debug\Task9_2.pdb
+C:\Users\Владимир\source\repos\Task9_CollectGeneric\Task9_4\bin\Debug\Task9_2.exe.config
+C:\Users\Владимир\source\repos\Task9_CollectGeneric\Task9_4\obj\Debug\Task9_4.csprojResolveAssemblyReference.cache
+C:\Users\Владимир\source\repos\Task9_CollectGeneric\Task9_4\obj\Debug\Task9_4.csproj.CoreCompileInputs.cache
+C:\Users\Владимир\source\repos\Task9_CollectGeneric\Task9_4\obj\Debug\Task9_4.exe
+C:\Users\Владимир\source\repos\Task9_CollectGeneric\Task9_4\obj\Debug\Task9_4.pdb
